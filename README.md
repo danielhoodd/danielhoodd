@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel, an <a href="www.linkedin.com/in/daniel-hood-b5314a284">IT Student</a>☺</h1>
+<h1>Hi, I'm Daniel, an <a href="www.linkedin.com/in/daniel-h-b5314a284">IT Student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
